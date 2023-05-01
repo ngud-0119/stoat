@@ -52,7 +52,7 @@
     "@types/js-yaml": "^4.0.5",
     "@types/lodash": "^4.14.194",
     "@types/mime-types": "^2.1.1",
-    "@types/node": "^18.16.0",
+    "@types/node": "^18.16.3",
     "@types/pixelmatch": "^5.2.4",
     "@types/pngjs": "^6.0.1",
     "@vercel/ncc": "^0.36.1",
