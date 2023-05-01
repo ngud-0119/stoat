@@ -46,7 +46,7 @@
     "pngjs": "^7.0.0"
   },
   "devDependencies": {
-    "@octokit/openapi-types": "^17.0.0",
+    "@octokit/openapi-types": "^17.1.0",
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
     "@types/bluebird": "^3.5.37",
     "@types/js-yaml": "^4.0.5",
