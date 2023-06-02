@@ -50,7 +50,7 @@
     "handlebars": "^4.7.7",
     "inquirer": "^9.1.4",
     "latest-version": "^7.0.0",
-    "marked": "^4.2.12",
+    "marked": "^5.0.4",
     "open": "^9.1.0",
     "path": "^0.12.7",
     "portfinder": "^1.0.32"
@@ -61,7 +61,7 @@
     "@types/express": "^4.17.14",
     "@types/inquirer": "^9.0.3",
     "@types/js-yaml": "^4.0.5",
-    "@types/marked": "^4.0.8",
+    "@types/marked": "^5.0.0",
     "@types/node": "^18.11.13",
     "@vercel/ncc": "^0.36.0",
     "esbuild": "^0.17.4",
