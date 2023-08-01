@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/stoat-dev/stoat-action#readme",
   "devDependencies": {
-    "@octokit/plugin-rest-endpoint-methods": "^7.0.1",
+    "@octokit/plugin-rest-endpoint-methods": "^9.0.0",
     "json-schema-to-typescript": "^13.0.1",
     "utility-types": "^3.10.0"
   }
