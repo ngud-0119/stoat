@@ -54,7 +54,7 @@
     "@types/mime-types": "^2.1.1",
     "@types/node": "^20.5.7",
     "@types/pixelmatch": "^5.2.4",
-    "@types/pngjs": "^6.0.1",
+    "@types/pngjs": "^6.0.4",
     "@vercel/ncc": "^0.38.0",
     "eslint": "^8.48.0",
     "eslint-config-prettier": "^9.0.0",
